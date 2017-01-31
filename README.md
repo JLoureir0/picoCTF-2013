@@ -16,6 +16,7 @@
 * Byte Code: 70 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/byte_code.md)
 * CFG to C: 70 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/cfg_to_c.md)
 * Spamcarver: 70 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/spamcarver.md)
+* NAVSAT: 70 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/navsat.md)
 * RSA: 70 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/rsa.md), [python script](https://github.com/JLoureir0/picoCTF-2013/blob/master/rsa.py)
 * Client-Side is the Best Side: 75 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/client_side_is_the_best_side.md)
 * Pilot Logic: 75 - [solution](https://github.com/JLoureir0/picoCTF-2013/blob/master/pilot_logic.md)
